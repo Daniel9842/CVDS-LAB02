@@ -1,4 +1,4 @@
-package edu.eci.cvds.patterns;
+package edu.eci.evds.patterns;
 
 import static org.junit.Assert.assertTrue;
 
